@@ -1,8 +1,14 @@
 git clone https://github.com/s0md3v/XSStrike
 git clone https://github.com/commixproject/commix
 git clone https://github.com/m4ll0k/SecretFinder
-git clone https://github.com/anouarbensaad/vulnx
-git clone https://github.com/projectdiscovery/nuclei
+git clone https://github.com/devanshbatham/ParamSpider
+git clone https://github.com/maurosoria/dirsearch.git --depth 1
+
+Manual Install:
+https://github.com/projectdiscovery/nuclei
+https://github.com/projectdiscovery/subfinder
+
+Extra:
+git clone https://github.com/christophetd/CloudFlair
 git clone https://github.com/mIcHyAmRaNe/okadminfinder3
 git clone https://github.com/zerobyte-id/Bashter
-git clone https://github.com/christophetd/CloudFlair
