@@ -3,6 +3,7 @@ git clone https://github.com/commixproject/commix
 git clone https://github.com/m4ll0k/SecretFinder
 git clone https://github.com/devanshbatham/ParamSpider
 git clone https://github.com/maurosoria/dirsearch.git --depth 1
+gem install wpscan
 
 Manual Install:
 https://github.com/projectdiscovery/nuclei
