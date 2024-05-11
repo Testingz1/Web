@@ -13,3 +13,6 @@ Extra:
 git clone https://github.com/christophetd/CloudFlair
 git clone https://github.com/mIcHyAmRaNe/okadminfinder3
 git clone https://github.com/zerobyte-id/Bashter
+
+LFI Payloads:
+site:HTTPSSITE inurl:?filename= #Depends on the web server
